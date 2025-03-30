@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\dasha\\OneDrive - ADvTECH Ltd\\PROG7311\\Dashayin_Naicker_CV\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{49270F66-9FD9-4A93-A7B3-47436DAFCFE4}|Dashayin_Naicker_CV.csproj|c:\\users\\dasha\\onedrive - advtech ltd\\prog7311\\dashayin_naicker_cv\\.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{49270F66-9FD9-4A93-A7B3-47436DAFCFE4}|Dashayin_Naicker_CV.csproj|solutionrelative:.dockerignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49270F66-9FD9-4A93-A7B3-47436DAFCFE4}|Dashayin_Naicker_CV.csproj|c:\\users\\dasha\\onedrive - advtech ltd\\prog7311\\dashayin_naicker_cv\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{49270F66-9FD9-4A93-A7B3-47436DAFCFE4}|Dashayin_Naicker_CV.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{49270F66-9FD9-4A93-A7B3-47436DAFCFE4}|Dashayin_Naicker_CV.csproj|c:\\users\\dasha\\onedrive - advtech ltd\\prog7311\\dashayin_naicker_cv\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{49270F66-9FD9-4A93-A7B3-47436DAFCFE4}|Dashayin_Naicker_CV.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
@@ -27,15 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": ".dockerignore",
+              "DocumentMoniker": "C:\\Users\\dasha\\OneDrive - ADvTECH Ltd\\PROG7311\\Dashayin_Naicker_CV\\.dockerignore",
+              "RelativeDocumentMoniker": ".dockerignore",
+              "ToolTip": "C:\\Users\\dasha\\OneDrive - ADvTECH Ltd\\PROG7311\\Dashayin_Naicker_CV\\.dockerignore",
+              "RelativeToolTip": ".dockerignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-30T12:34:05.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\dasha\\OneDrive - ADvTECH Ltd\\PROG7311\\Dashayin_Naicker_CV\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\dasha\\OneDrive - ADvTECH Ltd\\PROG7311\\Dashayin_Naicker_CV\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-30T12:25:23.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\dasha\\OneDrive - ADvTECH Ltd\\PROG7311\\Dashayin_Naicker_CV\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\dasha\\OneDrive - ADvTECH Ltd\\PROG7311\\Dashayin_Naicker_CV\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADoBAAAAAAAAAAAAAE0BAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAG0BAAAAAAAAAAAAAIUBAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T12:23:56.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T12:23:56.644Z"
             }
           ]
         },

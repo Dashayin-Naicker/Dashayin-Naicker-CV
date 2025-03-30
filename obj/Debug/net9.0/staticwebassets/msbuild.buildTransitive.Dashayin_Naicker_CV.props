@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Dashayin_Naicker_CV.props" />
+</Project>

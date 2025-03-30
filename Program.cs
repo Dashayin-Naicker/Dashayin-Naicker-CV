@@ -22,13 +22,14 @@ namespace Dashayin_Naicker_CV
             app.UseHttpsRedirection();
             app.UseRouting();
 
+            // Serve static files (CSS, JS, images, etc.)
+            app.UseStaticFiles();
+
             app.UseAuthorization();
 
-            app.MapStaticAssets();
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}")
-                .WithStaticAssets();
+                pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
         }

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dashayin_Naicker_CV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9617dee40a9dc706751cd9baf050059cdc754cea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a654f9b6ad4a9d3108791cc1795cbcd17304fdc0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dashayin_Naicker_CV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dashayin_Naicker_CV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

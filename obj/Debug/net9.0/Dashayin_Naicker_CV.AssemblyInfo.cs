@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("d69b2c88-c8ca-4c5c-927d-2ad06efb65a9")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dashayin_Naicker_CV")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+871a61680742a36199f8d4e6f1d94795ececd644")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dashayin_Naicker_CV")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dashayin_Naicker_CV")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
